@@ -1,0 +1,10 @@
+c:\users\hulk\source\repos\Frogger\Frogger\bin\Debug\Frogger.exe.config
+c:\users\hulk\source\repos\Frogger\Frogger\bin\Debug\Frogger.exe
+c:\users\hulk\source\repos\Frogger\Frogger\bin\Debug\Frogger.pdb
+c:\users\hulk\source\repos\Frogger\Frogger\obj\Debug\Frogger.csprojResolveAssemblyReference.cache
+c:\users\hulk\source\repos\Frogger\Frogger\obj\Debug\Frogger.Properties.Resources.resources
+c:\users\hulk\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.GenerateResource.Cache
+c:\users\hulk\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.CoreCompileInputs.cache
+c:\users\hulk\source\repos\Frogger\Frogger\obj\Debug\Frogger.exe
+c:\users\hulk\source\repos\Frogger\Frogger\obj\Debug\Frogger.pdb
+c:\users\hulk\source\repos\Frogger\Frogger\obj\Debug\Frogger.GameWindow.resources
